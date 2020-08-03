@@ -1,6 +1,15 @@
-# Hi, I am UnseenAcoustics.
-### Discord.js Bot Developer 👋
-### HTML5/PHP - Website Developer
+# Hi, I am UnseenAcoustics. 👋
+
+## Development Languages
+### Discord.js - 95%
+### JavaScript - 92%
+### HTML5 - 86%
+### CSS - 78%
+### PHP - 64%
+### Java - 28%
+### Discord.py - 19%
+### Python - 9%
+
 ## Projects Active
 ### Sundae Bot List - [Website Bot List](https://sundaebotlist.tk/)
 ### Stroke Host - Coming Soon, Minecraft Server Hosting Service.
