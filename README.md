@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi, I am UnseenAcoustics.
+### Discord.js Bot Developer 👋
+### HTML5/PHP - Website Developer
+## Projects Active
+### Sundae Bot List - [Website Bot List](https://sundaebotlist.tk/)
+### Stroke Host - Coming Soon, Minecraft Server Hosting Service.
+
+## Discord Projects Active
+### Music Darolus - The best feature-rich Discord Music Bot. Supports YouTube For now - [Bot Website](https://musicdarolus.tk/)
+### Support Tickets - A simple yet advanced ticketing system. - Website Coming Soon
 
 <!--
 **UnseenAcoustics/UnseenAcoustics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
