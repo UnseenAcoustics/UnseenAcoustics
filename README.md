@@ -11,8 +11,9 @@
 ### Python - 9%
 
 ## Projects Active
-### Sundae Bot List - [Website Bot List](https://sundaebotlist.tk/)
-### Stroke Host - Coming Soon, Minecraft Server Hosting Service.
+### Sundae Bot List - [SundaeBotList.tk](https://sundaebotlist.tk/) - [Github Org](https://github.com/Sundae-Bot-List)
+### Stroke Host - Coming Soon, Minecraft Server Hosting Service. - [StrokeHost.com](https://strokehost.com) - [Github Org](https://github.com/StrokeHosting)
+### Virtual Hosting - Coming Soon, Minecraft Server Hosting Service. [VirtualHosting.ml](https://virtualhosting.ml) - [GitHub Org](https://github.com/VirtualMCHosting)
 
 ## Discord Projects Active
 ### Music Darolus - The best feature-rich Discord Music Bot. Supports YouTube For now - [Bot Website](https://musicdarolus.tk/)
