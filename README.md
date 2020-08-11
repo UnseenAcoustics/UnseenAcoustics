@@ -12,6 +12,7 @@
 
 ## Projects Active
 ### Sundae Bot List - [SundaeBotList.tk](https://sundaebotlist.tk/) - [Github Org](https://github.com/Sundae-Bot-List)
+### Dynamic Bot List - [DynamicBotList.**](https://dynamicbotlist.**/) - [Github Org](https://github.com/DynamicBotList)
 ### Stroke Host - Coming Soon, Server Hosting Service. - [StrokeHost.com](https://strokehost.com) - [Github Org](https://github.com/StrokeHosting)
 ### Virtual Hosting - Coming Soon, Server Hosting Service. [VirtualHosting.ml](https://virtualhosting.ml) - [GitHub Org](https://github.com/VirtualMCHosting)
 
