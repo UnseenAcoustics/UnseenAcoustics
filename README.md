@@ -19,7 +19,7 @@
 ### Trinity - A Minecraft Server on Beta. - Owner/Website Developer [Trinity.**](https://trinity.**) - [Github Org](https://github.com/Melxus)
 
 ## Discord Projects Active
-### Music Darolus - The best feature-rich Discord Music Bot. Supports YouTube For now - [Bot Website](https://musicdarolus.tk/)
+### Music Darolus - The best feature-rich Discord Music Bot. Supports YouTube For now - [Bot Website](https://musicdarolus.tk/) [Github Org Coming Soon]
 
 ## Discord Projects Inactive
 ### Support Tickets - A simple yet advanced ticketing system.
