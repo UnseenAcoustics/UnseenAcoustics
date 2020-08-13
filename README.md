@@ -14,9 +14,9 @@
 ### Sundae Bot List - Website Administrator - [SundaeBotList.tk](https://sundaebotlist.tk/) - [Github Org](https://github.com/Sundae-Bot-List)
 ### Dynamic Bot List - Owner/Website Administrator - [DynamicBotList.**](https://dynamicbotlist.**/) - [Github Org](https://github.com/DynamicBotList)
 ### Stroke Host - Coming Soon, Server Hosting Service. - Website Developer - [StrokeHost.com](https://strokehost.com) - [Github Org](https://github.com/StrokeHosting)
-### Virtual Hosting - Coming Soon, Server Hosting Service. - Website Developer[VirtualHosting.ml](https://virtualhosting.ml) - [GitHub Org](https://github.com/VirtualMCHosting)
-### Melxus - A Minecraft Server on Development. - Manager/Website Developer [melxus.**](https://melxus.**) - [Github Org](https://github.com/TrinityMC)
-### Trinity - A Minecraft Server on Beta. - Owner/Website Developer [Trinity.**](https://trinity.**) - [Github Org](https://github.com/Melxus)
+### Virtual Hosting - Coming Soon, Server Hosting Service. - Website Developer - [VirtualHosting.ml](https://virtualhosting.ml) - [GitHub Org](https://github.com/VirtualMCHosting)
+### Melxus - A Minecraft Server on Development. - Manager/Website Developer - [Melxus.tk](https://melxus.tk) - [Github Org](https://github.com/TrinityMC)
+### Trinity - A Minecraft Server on Beta. - Owner/Website Developer - [Trinity.**](https://trinity.**) - [Github Org](https://github.com/Melxus)
 
 ## Discord Projects Active
 ### Music Darolus - The best feature-rich Discord Music Bot. Supports YouTube For now - [Bot Website](https://musicdarolus.tk/) [Github Org Coming Soon]
