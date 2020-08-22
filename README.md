@@ -18,10 +18,10 @@
 ### Melxus - A Minecraft Server on Development. - Manager/Website Developer - [Melxus.tk](https://melxus.tk) - [Github Org](https://github.com/TrinityMC)
 ### Trinity - A Minecraft Server on Beta. - Owner/Website Developer - [Trinity.**](https://trinity.**) - [Github Org](https://github.com/Melxus)
 
-## Discord Projects Active
+## Discord Bot Projects Active
 ### Music Darolus - The best feature-rich Discord Music Bot. Supports YouTube For now - [Bot Website](https://musicdarolus.tk/) [Github Org Coming Soon]
 
-## Discord Projects Inactive
+## Discord Bot Projects Inactive
 ### Support Tickets - A simple yet advanced ticketing system.
 
 <!--
