@@ -1,4 +1,4 @@
-# Hi, I am UnseenAcoustics. 👋
+# Hi, I am UnseenAcoustics, here are all of my stats (Coming soon to my website). 👋
 
 ## Development Languages
 ### Discord.js - 95%
