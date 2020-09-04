@@ -3,7 +3,7 @@
 # Here are all of my stats.
 # (Coming soon to my website).
 ## Github Stats
-![Unseen's github stats](https://github-readme-stats.vercel.app/api?username=UnseenAcoustics&show_icons=true&theme=dark)
+![Unseen's github stats](https://github-readme-stats.vercel.app/api?username=UnseenAcoustics&include_all_commits=true)
 
 ## Github Languages Used
 ### 
