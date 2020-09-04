@@ -1,5 +1,12 @@
-![UnseenPFP](https://media.discordapp.net/attachments/723465008406593559/751445821953671168/imageonline-co-roundcorner.png?width=331&height=331)
-# Hi, I am UnseenAcoustics, here are all of my stats (Coming soon to my website). 👋
+
+# Hi, I am UnseenAcoustics👋, 
+# Here are all of my stats.
+# (Coming soon to my website).
+## Github Stats
+![Unseen's github stats](https://github-readme-stats.vercel.app/api?username=UnseenAcoustics&show_icons=true&theme=dark)
+
+## Github Languages Used
+### 
 
 ## Development Languages
 ### Discord.js - 95%
@@ -34,7 +41,6 @@
 **UnseenAcoustics/UnseenAcoustics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
