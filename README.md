@@ -27,6 +27,7 @@
 
 ## Discord Bot Projects Inactive
 ### Support Tickets - A simple yet advanced ticketing system.
+### Backup Bot - A simple Backup Bot that will backup your roles, channels, and server info!
 
 <!--
 **UnseenAcoustics/UnseenAcoustics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
