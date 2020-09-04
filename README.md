@@ -5,9 +5,6 @@
 ## Github Stats
 ![Unseen's github stats](https://github-readme-stats.vercel.app/api?username=UnseenAcoustics&include_all_commits=true)
 
-## Github Languages Used
-### 
-
 ## Development Languages
 ### Discord.js - 95%
 ### JavaScript - 92%
