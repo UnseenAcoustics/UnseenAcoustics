@@ -30,6 +30,10 @@
 ## Discord Bot Projects Active
 ### Music Darolus - The best feature-rich Discord Music Bot. Supports YouTube For now - [Bot Website](https://musicdarolus.tk/) [Github Org Coming Soon]
 
+## Planned Discord Bot Projects
+### Auto Publisher - Automatically publish messages or news in your announcement channels.
+
+
 ## Discord Bot Projects Inactive
 ### Support Tickets - A simple yet advanced ticketing system.
 ### Backup Bot - A simple Backup Bot that will backup your roles, channels, and server info!
