@@ -3,6 +3,9 @@
 Here are all of my stats.
 (Coming soon to my website).
 ## Github Stats
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=UnseenAcoustics)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Unseen's github stats](https://github-readme-stats.vercel.app/api?username=UnseenAcoustics&include_all_commits=true)
 
 ## Development Languages
