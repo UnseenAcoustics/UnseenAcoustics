@@ -1,7 +1,7 @@
 
 # Hi, I am UnseenAcoustics👋
-# Here are all of my stats.
-# (Coming soon to my website).
+Here are all of my stats.
+(Coming soon to my website).
 ## Github Stats
 ![Unseen's github stats](https://github-readme-stats.vercel.app/api?username=UnseenAcoustics&include_all_commits=true)
 
@@ -34,6 +34,11 @@
 ### Support Tickets - A simple yet advanced ticketing system.
 ### Backup Bot - A simple Backup Bot that will backup your roles, channels, and server info!
 
+# Personal Things
+
+#### Listening in spotify
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gub257zj9tatu6y9sg45i8mpw&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
 <!--
 **UnseenAcoustics/UnseenAcoustics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
