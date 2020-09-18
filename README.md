@@ -8,6 +8,8 @@ Here are all of my stats.
 
 ![Unseen's github stats](https://github-readme-stats.vercel.app/api?username=UnseenAcoustics&include_all_commits=true)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnseenAcoustics&layout=compact" />
+
 ## Development Languages
 **Languages and Tools:**  
 
