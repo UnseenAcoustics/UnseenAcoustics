@@ -67,21 +67,22 @@ Here are all of my stats.
 
 
 ## Projects Active
-### Stroke Host - Almost done, Coming Soon, Server Hosting Service. - Website Developer - [StrokeHost.com](https://strokehost.com) - [Github Org](https://github.com/StrokeHosting)
-### Virtual Hosting - Coming Soon, Server Hosting Service. - Website Developer - [VirtualHosting.ml](https://virtualhosting.ml) - [GitHub Org](https://github.com/VirtualMCHosting)
-### Music Darolus - The best feature-rich Discord Music Bot. Supports YouTube For now - [MusicDarolus.tk](https://musicdarolus.tk/) - [Github Org](https://github.com/Music-Darolus)
+### Stroke Host - Open, Coming Soon, Server Hosting Service. - Website Developer - [StrokeHost.com](https://strokehost.com) - [Github Org](https://github.com/StrokeHosting)
 
 ## Projects Paused
-### Virtual Hosting - Closed, Server Hosting Service. - Website Developer - [VirtualHosting.ml](https://virtualhosting.ml) - [GitHub Org](https://github.com/VirtualMCHosting)
 ### Dynamic Bot List - Owner/Website Administrator - [DynamicBotList.**](https://dynamicbotlist.**/) - [Github Org](https://github.com/DynamicBotList)
-### Trinity - A Minecraft Server on Beta. - Owner/Website Developer - [Trinity.**](https://trinity.**) - [Github Org](https://github.com/Melxus)
-### Melxus - A Minecraft Server on Development. - Manager/Website Developer - [Melxus.tk](https://melxus.tk) - [Github Org](https://github.com/TrinityMC)
+### Trinity - A Minecraft Server on Beta. - Owner/Website Developer - [Trinity.**](https://trinity.**) - [Github Org](https://github.com/Trinity)
 ### Sundae Bot List - Website Administrator - [SundaeBotList.tk](https://sundaebotlist.tk/) - [Github Org](https://github.com/Sundae-Bot-List)
 
+## Projects Ended
+### Melxus - A Minecraft Server on Development. - Manager/Website Developer - [Melxus.tk](https://melxus.tk) - [Github Org](https://github.com/TrinityMC)
+### Music Darolus - The best feature-rich Discord Music Bot. Supports YouTube For now - [MusicDarolus.tk](https://musicdarolus.tk/) - [Github Org](https://github.com/Music-Darolus)
+### Virtual Hosting - Closed, Server Hosting Service. - Website Developer - [VirtualHosting.ml](https://virtualhosting.ml) - [GitHub Org](https://github.com/VirtualMCHosting)
+
 ## In progress
-### Auto Announcement Publisher - Automatically publish messages or news in your announcement channels. - [Bot Website Coming Soon]() [Github Org]()
 
 ## Planned Projects
+### Auto Announcement Publisher - Automatically publish messages or news in your announcement channels. - [Bot Website Coming Soon]() [Github Org]()
 ### Support Tickets - A simple yet advanced ticketing system.
 ### Backup Bot - A simple Backup Bot that will backup your roles, channels, and server info!
 
