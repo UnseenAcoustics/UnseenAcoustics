@@ -82,7 +82,6 @@ Here are all of my stats.
 ## In progress
 
 ## Planned Projects
-### Auto Announcement Publisher - Automatically publish messages or news in your announcement channels. - [Bot Website Coming Soon]() [Github Org]()
 ### Support Tickets - A simple yet advanced ticketing system.
 ### Backup Bot - A simple Backup Bot that will backup your roles, channels, and server info!
 
