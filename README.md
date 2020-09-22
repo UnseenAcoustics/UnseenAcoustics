@@ -80,9 +80,9 @@ Here are all of my stats.
 ### Virtual Hosting - Closed, Server Hosting Service. - Website Developer - [VirtualHosting.ml](https://virtualhosting.ml) - [GitHub Org](https://github.com/VirtualMCHosting)
 
 ## In progress
+### Support Tickets - A simple yet advanced ticketing system.
 
 ## Planned Projects
-### Support Tickets - A simple yet advanced ticketing system.
 ### Backup Bot - A simple Backup Bot that will backup your roles, channels, and server info!
 
 # Personal Things
