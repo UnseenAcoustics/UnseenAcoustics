@@ -67,7 +67,8 @@ Here are all of my stats.
 
 
 ## Projects Active
-### Stroke Host - Open, Server Hosting Service. - Website Developer - [StrokeHost.com](https://strokehost.com) - [Github Org](https://github.com/StrokeHosting)
+### Stroke Host - Open, Server Hosting Service. - Manager/Website Developer - [StrokeHost.com](https://strokehost.com) - [Github Org](https://github.com/StrokeHosting)
+### Virtual Hosting - Closed, Server Hosting Service. - CFO/Website Developer - [VirtualHosting.ml](https://virtualhosting.ml) - [GitHub Org](https://github.com/VirtualMCHosting)
 
 ## Projects Paused
 ### Dynamic Bot List - Owner/Website Administrator - [DynamicBotList.**](https://dynamicbotlist.**/) - [Github Org](https://github.com/DynamicBotList)
@@ -76,14 +77,13 @@ Here are all of my stats.
 
 ## Projects Ended
 ### Melxus - A Minecraft Server on Development. - Manager/Website Developer - [Melxus.tk](https://melxus.tk) - [Github Org](https://github.com/TrinityMC)
-### Music Darolus - The best feature-rich Discord Music Bot. Supports YouTube For now - [MusicDarolus.tk](https://musicdarolus.tk/) - [Github Org](https://github.com/Music-Darolus)
-### Virtual Hosting - Closed, Server Hosting Service. - Website Developer - [VirtualHosting.ml](https://virtualhosting.ml) - [GitHub Org](https://github.com/VirtualMCHosting)
 
 ## In progress
-### Support Tickets - A simple yet advanced ticketing system.
+### Music Darolus - The best feature-rich Discord Music Bot. Supports YouTube For now - [MusicDarolus.tk](https://musicdarolus.tk/) - [Github Org](https://github.com/Music-Darolus) Note: I am finding a host for my bot.
 
 ## Planned Projects
 ### Backup Bot - A simple Backup Bot that will backup your roles, channels, and server info!
+### Support Tickets - A simple yet advanced ticketing system.
 
 # Personal Things
 
