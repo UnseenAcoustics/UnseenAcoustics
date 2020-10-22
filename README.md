@@ -69,10 +69,10 @@ Here are all of my stats.
 ## Projects Active
 ### Stroke Host - Open, Server Hosting Service. - Manager/Website Developer - [StrokeHost.com](https://strokehost.com) - [Github Org](https://github.com/StrokeHosting)
 ### Virtual Hosting - Closed, Server Hosting Service. - CFO/Website Developer - [VirtualHosting.ml](https://virtualhosting.ml) - [GitHub Org](https://github.com/VirtualMCHosting)
+### Trinity - A Minecraft Server on Beta. - Co-Owner/Website Developer - [Trinity.ml](https://trinitymc.ml) - [Github Org](https://github.com/Trinity)
 
 ## Projects Paused
 ### Dynamic Bot List - Owner/Website Administrator - [DynamicBotList.**](https://dynamicbotlist.**/) - [Github Org](https://github.com/DynamicBotList)
-### Trinity - A Minecraft Server on Beta. - Co-Owner/Website Developer - [Trinity.**](https://trinitymc.ml) - [Github Org](https://github.com/Trinity)
 
 ## Projects Ended
 ### Melxus - A Minecraft Server on Development. - Manager/Website Developer - [Melxus.tk](https://melxus.tk) - [Github Org](https://github.com/TrinityMC)
