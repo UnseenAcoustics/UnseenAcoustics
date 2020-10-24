@@ -69,15 +69,16 @@ Here are all of my stats.
 ## Projects Active
 ### Stroke Host - Open, Server Hosting Service. - Manager/Website Developer - [StrokeHost.com](https://strokehost.com) - [Github Org](https://github.com/StrokeHosting)
 ### Virtual Hosting - Closed, Server Hosting Service. - CFO/Website Developer - [VirtualHosting.ml](https://virtualhosting.ml) - [GitHub Org](https://github.com/VirtualMCHosting)
-### Trinity - A Minecraft Server on Beta. - Co-Owner/Website Developer - [Trinity.ml](https://trinitymc.ml) - [Github Org](https://github.com/Trinity)
+### Trinity - A Minecraft Server on Beta. - Co-Owner/Forum Developer - [Trinity.ml](https://trinitymc.ml) - [Github Org](https://github.com/Trinity)
+### Velvx Network - A Minecraft Network - Bot Developer/Forum Developer - [VelvxNetwork.ml](https://velvxnetwork.ml) - [Github Org](https://github.com/VelvxNetwork)
+### 4W Islands - A Minecraft Server - Forum Developer - [4WIslands.ml](https://4wislands.ml/) - [Github Org]()
 
 ## Projects Paused
 ### Dynamic Bot List - Owner/Website Administrator - [DynamicBotList.**](https://dynamicbotlist.**/) - [Github Org](https://github.com/DynamicBotList)
 
 ## Projects Ended
-### Melxus - A Minecraft Server on Development. - Manager/Website Developer - [Melxus.tk](https://melxus.tk) - [Github Org](https://github.com/TrinityMC)
+### Melxus - A Minecraft Server on Development. - Manager/Website Developer - [Melxus.tk](https://melxus.tk) - [Github Org](https://github.com/Melxus)
 ### Sundae Bot List - Website Administrator - [SundaeBotList.tk](https://sundaebotlist.tk/) - [Github Org](https://github.com/Sundae-Bot-List)
-
 
 ## In progress
 ### Music Darolus - The best feature-rich Discord Music Bot. Supports YouTube For now - [MusicDarolus.tk](https://musicdarolus.tk/) - [Github Org](https://github.com/Music-Darolus) Note: I am finding a host for my bot.
