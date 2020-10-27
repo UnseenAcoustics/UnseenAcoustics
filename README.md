@@ -1,5 +1,7 @@
 
 # Hi, I am UnseenAcoustics👋
+![](https://komarev.com/ghpvc/?username=UnseenAcoustics&style=flat-square)
+
 Here are all of my stats.
 (Coming soon to my website).
 ## Github Stats
