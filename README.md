@@ -1,7 +1,8 @@
 
 # Hi, I am UnseenAcoustics👋
 ![](https://komarev.com/ghpvc/?username=UnseenAcoustics&style=flat-square) 
-![Unseen's Discord Status](https://img.shields.io/endpoint?label=currently&url=https://dev.discordprofiles.me/api/badge/status/300657719721984000)
+ ## Socials
+![](https://img.shields.io/twitter/follow/UnseenAcoustiYT)
 
 Here are all of my stats.
 (Coming soon to my website).
