@@ -73,21 +73,23 @@ Here are all of my stats.
 
 -->
 ## Projects Active
-### Stroke Host - Open, Server Hosting Service. - Manager/Website Developer - [StrokeHost.com](https://strokehost.com) - [Github Org](https://github.com/StrokeHosting)
-### Virtual Hosting - Closed, Server Hosting Service. - CFO/Website Developer - [VirtualHosting.ml](https://virtualhosting.ml) - [GitHub Org](https://github.com/VirtualMCHosting)
+### Music Darolus - The best feature-rich Discord Music Bot. Supports YouTube For now - [MusicDarolus.tk](https://musicdarolus.tk/) - [Github Org](https://github.com/Music-Darolus) Note: Fixing bugs in my bot*.
 ### Trinity - A Minecraft Server on Beta. - Co-Owner/Forum Developer - [Trinity.ml](https://trinitymc.ml) - [Github Org](https://github.com/Trinity)
 ### Velvx Network - A Minecraft Network - Bot Developer/Forum Developer - [VelvxNetwork.ml](https://velvxnetwork.ml) - [Github Org](https://github.com/VelvxNetwork)
-### 4W Islands - A Minecraft Server - Forum Developer - [4WIslands.ml](https://4wislands.ml/) - [Github Org]()
 
 ## Projects Paused
 ### Dynamic Bot List - Owner/Website Administrator - [DynamicBotList.**](https://dynamicbotlist.**/) - [Github Org](https://github.com/DynamicBotList)
+### Stroke Host - Closed Temp, Server Hosting Service. - Manager/Website Developer - [StrokeHost.com](https://strokehost.com) - [Github Org](https://github.com/StrokeHosting)
 
 ## Projects Ended
 ### Melxus - A Minecraft Server on Development. - Manager/Website Developer - [Melxus.tk](https://melxus.tk) - [Github Org](https://github.com/Melxus)
 ### Sundae Bot List - Website Administrator - [SundaeBotList.tk](https://sundaebotlist.tk/) - [Github Org](https://github.com/Sundae-Bot-List)
+### Virtual Hosting - Closed, Server Hosting Service. - CFO/Website Developer - [VirtualHosting.ml](https://virtualhosting.ml) - [GitHub Org](https://github.com/VirtualMCHosting)
+### 4W Islands - A Minecraft Server - Forum Developer - [4WIslands.ml](https://4wislands.ml/) - [Github Org]()
+### Velvx Network - A Minecraft Network - Bot Developer/Forum Developer - [VelvxNetwork.ml](https://velvxnetwork.ml) - [Github Org](https://github.com/VelvxNetwork)
 
-## In progress
-### Music Darolus - The best feature-rich Discord Music Bot. Supports YouTube For now - [MusicDarolus.tk](https://musicdarolus.tk/) - [Github Org](https://github.com/Music-Darolus) Note: I am finding a host for my bot.
+## In progress (Working on)
+### Music Darolus - The best feature-rich Discord Music Bot. Supports YouTube For now - [MusicDarolus.tk](https://musicdarolus.tk/) - [Github Org](https://github.com/Music-Darolus) Note: Fixing bugs in my bot*.
 
 ## Planned Projects
 ### Backup Bot - A simple Backup Bot that will backup your roles, channels, and server info!
