@@ -89,7 +89,7 @@ Here are all of my stats.
 ### Velvx Network - A Minecraft Network - Bot Developer/Forum Developer - [VelvxNetwork.ml](https://velvxnetwork.ml) - [Github Org](https://github.com/VelvxNetwork)
 
 ## In progress (Working on)
-### Music Darolus - The best feature-rich Discord Music Bot. Supports YouTube For now - [MusicDarolus.tk](https://musicdarolus.tk/) - [Github Org](https://github.com/Music-Darolus) Note: Fixing bugs in my bot*.
+#### None - Taking a break from development.
 
 ## Planned Projects
 ### Backup Bot - A simple Backup Bot that will backup your roles, channels, and server info!
