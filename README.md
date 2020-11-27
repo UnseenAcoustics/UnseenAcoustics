@@ -73,13 +73,13 @@ Here are all of my stats.
 
 -->
 ## Projects Active
-### Music Darolus - The best feature-rich Discord Music Bot. Supports YouTube For now - [MusicDarolus.tk](https://musicdarolus.tk/) - [Github Org](https://github.com/Music-Darolus) Note: Fixing bugs in my bot*.
 ### Trinity - A Minecraft Server on Beta. - Co-Owner/Forum Developer - [Trinity.ml](https://trinitymc.ml) - [Github Org](https://github.com/Trinity)
 ### Velvx Network - A Minecraft Network - Bot Developer/Forum Developer - [VelvxNetwork.ml](https://velvxnetwork.ml) - [Github Org](https://github.com/VelvxNetwork)
 
 ## Projects Paused
 ### Dynamic Bot List - Owner/Website Administrator - [DynamicBotList.**](https://dynamicbotlist.**/) - [Github Org](https://github.com/DynamicBotList)
 ### Stroke Host - Closed Temp, Server Hosting Service. - Manager/Website Developer - [StrokeHost.com](https://strokehost.com) - [Github Org](https://github.com/StrokeHosting)
+### Music Darolus - The best feature-rich Discord Music Bot. Supports YouTube For now - [MusicDarolus.tk](https://musicdarolus.tk/) - [Github Org](https://github.com/Music-Darolus) Note: Fixing bugs in my bot*.
 
 ## Projects Ended
 ### Melxus - A Minecraft Server on Development. - Manager/Website Developer - [Melxus.tk](https://melxus.tk) - [Github Org](https://github.com/Melxus)
