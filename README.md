@@ -73,6 +73,7 @@ Here are all of my stats.
 
 -->
 ## Projects Active
+### Secret Project (Unknown to anyone)
 
 ## Projects Paused
 ### Dynamic Bot List - Owner/Website Administrator - [DynamicBotList.**](https://dynamicbotlist.**/) - [Github Org](https://github.com/DynamicBotList)
