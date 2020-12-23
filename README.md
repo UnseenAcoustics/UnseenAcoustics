@@ -76,7 +76,6 @@ Here are all of my stats.
 
 ## Projects Paused
 ### Dynamic Bot List - Owner/Website Administrator - [DynamicBotList.**](https://dynamicbotlist.**/) - [Github Org](https://github.com/DynamicBotList)
-### Stroke Host - Closed Temp, Server Hosting Service. - Manager/Website Developer - [StrokeHost.com](https://strokehost.com) - [Github Org](https://github.com/StrokeHosting)
 ### Music Darolus - The best feature-rich Discord Music Bot. Supports YouTube For now - [MusicDarolus.tk](https://musicdarolus.tk/) - [Github Org](https://github.com/Music-Darolus) Note: Fixing bugs in my bot*.
 
 ## Projects Status Unknown
@@ -88,6 +87,8 @@ Here are all of my stats.
 ### Virtual Hosting - Closed, Server Hosting Service. - CFO/Website Developer - [VirtualHosting.ml](https://virtualhosting.ml) - [GitHub Org](https://github.com/VirtualMCHosting)
 ### 4W Islands - A Minecraft Server - Forum Developer - [4WIslands.ml](https://4wislands.ml/) - [Github Org]()
 ### Velvx Network - A Minecraft Network - Bot Developer/Forum Developer - [VelvxNetwork.ml](https://velvxnetwork.ml) - [Github Org](https://github.com/VelvxNetwork)
+### Stroke Host - Fired for Inactivity, Server Hosting Service. - Manager/Website Developer - [StrokeHost.com](https://strokehost.com) - [Github Org](https://github.com/StrokeHosting)
+
 
 ## In progress (Working on)
 #### None - Taking a break from development.
