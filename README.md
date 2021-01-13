@@ -25,7 +25,7 @@ Here are all of my stats.
 ### Trinity - A Minecraft Server on Beta. - Co-Owner/Forum Developer - [Trinity.ml](https://trinitymc.ml) - [Github Org](https://github.com/Trinity)
 
 ## Projects Ended
-Moved to: Awaiting Link.
+### Moved to: https://github.com/UnseenAcoustics/old-projects
 
 ## In progress (Working on)
 #### None - Taking a break from development.
