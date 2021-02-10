@@ -28,7 +28,7 @@ Here are all of my stats.
 ### Moved to: https://github.com/UnseenAcoustics/old-projects
 
 ## In progress (Working on)
-#### None - Taking a break from development.
+#### Virtual Hosting - Game Hosting Service - Upper Management/Website Developer
 
 ## Planned Projects
 ### Backup Bot - A simple Backup Bot that will backup your roles, channels, and server info!
