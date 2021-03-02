@@ -2,7 +2,6 @@
 # Hi, I am UnseenAcoustics👋
 ![](https://komarev.com/ghpvc/?username=UnseenAcoustics&style=flat-square) 
  ## Socials
-![](https://img.shields.io/twitter/follow/UnseenAcoustiYT)
 
 #### Note: 
 Here are all of my stats.
@@ -28,7 +27,7 @@ Here are all of my stats.
 ### Moved to: https://github.com/UnseenAcoustics/old-projects
 
 ## In progress (Working on)
-#### Virtual Hosting - Game Hosting Service - Upper Management/Website Developer
+#### Virtual Nodes - Game Server Hosting Service - Executive/Website Developer
 
 ## Planned Projects
 ### Backup Bot - A simple Backup Bot that will backup your roles, channels, and server info!
