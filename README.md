@@ -17,7 +17,8 @@ Here are all of my stats.
 
 
 ## Projects Active
-### Secret Project (Unknown to anyone)
+### Virtual Nodes - Game Server Hosting Service - Executive/Website Developer - [VirtualNodes.ml](https://virtualnodes.ml)
+### Ultron Music Bot - High Quality Music Bot - Bot Owner/Bot Developer - [UltronMusicBot.tk](https://ultronmusicbot.tk)
 
 
 ## Projects Paused
@@ -27,7 +28,7 @@ Here are all of my stats.
 ### Moved to: https://github.com/UnseenAcoustics/old-projects
 
 ## In progress (Working on)
-#### Virtual Nodes - Game Server Hosting Service - Executive/Website Developer
+
 
 ## Planned Projects
 ### Backup Bot - A simple Backup Bot that will backup your roles, channels, and server info!
