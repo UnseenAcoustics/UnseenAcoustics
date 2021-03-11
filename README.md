@@ -36,8 +36,7 @@ Here are all of my stats.
 
 
 ## Planned Projects
-### Backup Bot - A simple Backup Bot that will backup your roles, channels, and server info!
-### Support Tickets - A simple yet advanced ticketing system.
+
 
 # Personal Things
 
