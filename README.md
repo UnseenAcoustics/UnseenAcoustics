@@ -27,7 +27,7 @@ Here are all of my stats.
 
 
 ## Projects Paused
-### Trinity - A Minecraft Server on Beta. - Co-Owner/Forum Developer - [Trinity.ml](https://trinitymc.ml) - [Github Org](https://github.com/Trinity)
+
 
 ## Projects Ended
 ### Moved to: https://github.com/UnseenAcoustics/old-projects
