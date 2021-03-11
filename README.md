@@ -23,6 +23,7 @@ Here are all of my stats.
 ### Chill Host - Paid Discord Bot / Game Server Hosting Service - UpperManagement - 
 ### Skilled Hosting - Paid Discord Bot / Game Server Hosting Service - Manager -
 ### FloofyHosting - Paid Discord Bot / Game Server Hosting Service - Developer - [FloofyHosting.com](https://floofyhosting.com)
+### Chill Realm - Minecraft Server Community - Manager - [Forums](https://thechillrealm.flarum.cloud/)
 
 
 ## Projects Paused
