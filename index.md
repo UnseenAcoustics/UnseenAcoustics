@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/UnseenAcoustics/UnseenAcoustics/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Hi, I am UnseenAcoustics👋
+![](https://komarev.com/ghpvc/?username=UnseenAcoustics&style=flat-square) 
+ ## Socials
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Note: 
+Here are all of my stats.
+(Coming soon to my website).
 
-### Markdown
+## Github Stats
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[![trophy](https://github-profile-trophy.vercel.app/?username=UnseenAcoustics)](https://github.com/ryo-ma/github-profile-trophy)
 
-```markdown
-Syntax highlighted code block
+![Unseen's github stats](https://github-readme-stats.vercel.app/api?username=UnseenAcoustics&include_all_commits=true)
 
-# Header 1
-## Header 2
-### Header 3
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnseenAcoustics&layout=compact" />
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Projects Active
+### Virtual Nodes - Free Discord Bot / Game Server Hosting Service - Executive/Website Developer - [VirtualNodes.ml](https://virtualnodes.ml)
+### Virtual Hut - Paid Discord Bot / Game Server Hosting Service - Executive -
+### Ultron Music Bot - High Quality Music Bot - Bot Owner/Bot Developer - [UltronMusicBot.tk](https://ultronmusicbot.tk)
+### Chill Host - Paid Discord Bot / Game Server Hosting Service - UpperManagement - 
+### Skilled Hosting - Paid Discord Bot / Game Server Hosting Service - Manager -
+### FloofyHosting - Paid Discord Bot / Game Server Hosting Service - Developer - [FloofyHosting.com](https://floofyhosting.com)
+### Chill Realm - Minecraft Server Community - Manager - [Forums](https://thechillrealm.flarum.cloud/)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Projects Paused
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Projects Ended
+### Moved to: https://github.com/UnseenAcoustics/old-projects
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UnseenAcoustics/UnseenAcoustics/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## In progress (Working on)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Planned Projects
+
+
+# Personal Things
+
+#### Listening in spotify
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gub257zj9tatu6y9sg45i8mpw&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
+<!--
+**UnseenAcoustics/UnseenAcoustics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
