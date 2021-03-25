@@ -17,13 +17,11 @@ Here are all of my stats.
 
 
 ## Projects Active
-### Virtual Nodes - Free Discord Bot / Game Server Hosting Service - Executive/Website Developer - [VirtualNodes.ml](https://virtualnodes.ml)
-### Virtual Hut - Paid Discord Bot / Game Server Hosting Service - Executive -
 ### Ultron Music Bot - High Quality Music Bot - Bot Owner/Bot Developer - [UltronMusicBot.tk](https://ultronmusicbot.tk)
 ### Chill Host - Paid Discord Bot / Game Server Hosting Service - UpperManagement - 
 ### Skilled Hosting - Paid Discord Bot / Game Server Hosting Service - Manager -
 ### FloofyHosting - Paid Discord Bot / Game Server Hosting Service - Developer - [FloofyHosting.com](https://floofyhosting.com)
-### Chill Realm - Minecraft Server Community - Manager - [Forums](https://thechillrealm.flarum.cloud/)
+### Chill Realm - Minecraft Server Community - Manager - [Forums](https://chillrealm.ml/)
 
 
 ## Projects Paused
