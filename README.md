@@ -5,8 +5,9 @@
 
 ## Projects Active
 ### Ultron Music Bot - High Quality Music Bot - Bot Owner/Bot Developer - [UltronMusicBot.tk](https://ultronmusicbot.tk)
-### Chill Host - Paid Discord Bot / Game Server Hosting Service - UpperManagement - 
+### Chill Host - Free/Paid Discord Bot / Game Server Hosting Service - UpperManagement - 
 ### Chill Realm - Minecraft Server Community - Forums/Manager/Website Developer - [Forums](https://chillrealm.ml/)
+### Crystal Nodes - Free/Paid Discord Bot / Game Server Hosting Service - Founder/Owner
 
 
 ## Projects Paused
