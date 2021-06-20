@@ -14,6 +14,9 @@
 ## Projects Ended
 
 ### Floofy Hosting - Paid Discord Bot / Game Server Hosting Service / VPS Hosting - Developer - [Website](https://floofyhosting.com)
+### Dynamic Bot List - Owner/Website Administrator - [DynamicBotList.**](https://dynamicbotlist.**/) - [Github Org](https://github.com/DynamicBotList)
+### Trinity - A Minecraft Server on Beta. - Owner/Website Developer - [Trinity.**](https://trinity.**) - [Github Org](https://github.com/Trinity)
+### Sundae Bot List - Website Administrator - [SundaeBotList.tk](https://sundaebotlist.tk/) - [Github Org](https://github.com/Sundae-Bot-List)
 
 ## In progress (Working on)
 
