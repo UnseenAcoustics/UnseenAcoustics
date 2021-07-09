@@ -24,6 +24,7 @@
 #### Virtual Hosting - Closed, Server Hosting Service. - Ex-CFO/Website Developer - [VirtualHosting.ml](https://virtualhosting.ml)
 #### Skilled Hosting - Paid Discord Bot / Game Server Hosting Service - Ex-Manager - [Website](https://skilledhosting.ml)
 #### Dynamic Bot List - Ex-Owner/Website Administrator - [Website](https://dynamicbotlist.ml/)
+#### Sundae Bot List - Ex-Website Administrator - [Website](https://sundaebotlist.tk/)
 #### Velvx Network - A Minecraft Network - Ex-Bot Developer/Forum Developer - [Website](https://velvxnetwork.ml)
 #### 4W Islands - A Minecraft Server - Ex-Forum Developer - [Website](https://4wislands.ml/)
 #### Melxus - A Minecraft Server on Development. - Ex-Manager/Website Developer - [Website](https://melxus.tk)
