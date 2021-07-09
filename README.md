@@ -4,7 +4,7 @@
 
 
 ## Projects Active
-#### Crystal Nodes - Free/Paid VPS / VPS Cloud /  Shared Website / Dedicated Server Hosting - Founder/CEO - [Website](https://crystal-nodes.xyz)
+#### Crystal Nodes - Paid VPS / VPS Cloud /  Shared Website / Dedicated Server Hosting - Founder/CEO - [Website](https://crystal-nodes.xyz)
 #### MexiHost - Free/Paid Website / Reseller Web Hosting - Administrator/Website Developer - [Website Coming Soon](https://)
 #### Lunar Bot - Website Developer - [Website](https://lunar-bot.ml)
 
