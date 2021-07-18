@@ -6,8 +6,9 @@
 ## Projects Active
 #### Crystal Nodes - Paid VPS / VPS Cloud /  Shared Website / Dedicated Server Hosting - Founder/CEO - [Website](https://crystal-nodes.xyz)
 #### MexiHost - Free/Paid Website / Reseller Web Hosting - Administrator/Website Developer - [Website Coming Soon](https://)
-#### VHMDevelopment - Paid Website / Game / VPS Hosting - Administrator/Website Developer - [Website Coming Soon](https://)
+#### VHMDevelopment - Paid Website / Game / VPS Hosting - Administrator/Website Developer - [Website](https://vhmdevelopment.cf)
 #### RisingNodes - Free/Paid Web / VPS SSD / VPS HDD / Minecraft / Discord Bot Hosting - Moderator/Website Developer - [Website](https://risingnodes.xyz)
+#### CloudNodes - Paid Game / Discord Bot Hosting - Dev Manager/Website Developer - [Website Coming Soon](https://)
 #### Lunar Bot - Website Developer - [Website](https://lunar-bot.ml)
 #### Free Image Host - Andys Image Host (ImageX) - Helper - [Website](https://andysimagehost.xyz)
 
