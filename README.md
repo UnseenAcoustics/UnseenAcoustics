@@ -12,12 +12,12 @@
 
 ## Projects Paused
 
-#### Chill Realm - Minecraft Server Community - Forums/Website Developer - [Forums](https://chillrealm.ml/)
-#### Chill Host - Free/Paid Discord Bot / Game Server Hosting Service - UpperManagement - 
 #### Ultron Music Bot - High Quality Music Bot - Bot Owner/Bot Developer - [Website](https://ultronmusicbot.tk)
 
 ## Projects Ended
 
+#### Chill Host - Free/Paid Discord Bot / Game Server Hosting Service - UpperManagement -
+#### Chill Realm - Minecraft Server Community - Forums/Website Developer - [Forums](https://chillrealm.ml/)
 #### MexiHost - Free/Paid Website / Reseller Web Hosting - Administrator/Website Developer - [Website Coming Soon](https://)
 #### VHMDevelopment - Paid Website / Game / VPS Hosting - Administrator/Website Developer - [Website](https://vhmdevelopment.cf)
 #### Virtual Nodes - Website/Cloud Storage Hosting Service - Ex-Head Of Staff/Website Developer - [Website](https://virtualnodes.ml) - [Discord](https://discord.virtualnodes.ml)
