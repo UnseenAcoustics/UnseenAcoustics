@@ -1,6 +1,10 @@
 
 # Hi, I am Unseen👋
-### I've been a developer for 5 years and have a lot of experience.
+
+### I'm a Student, and a Full Stack Developer!!
+
+[![](https://discord.c99.nl/widget/theme-1/300657719721984000.png)](https://discord.gg/AdSMHjh8gg)
+
 
 ## Projects Active
 #### FarPeaksMC - Minecraft Server Community - Forums/Website/Bot Developer - [Coming Soon]()
