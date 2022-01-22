@@ -13,7 +13,6 @@
 #### KeyHosting - Free/Paid Hosting - Management - [Website](https://keyhosting.us)
 #### Crystal Nodes - Paid VPS / VPS Cloud /  Shared Website / Dedicated Server Hosting - Founder/CEO - [Website](https://crystal-nodes.xyz)
 #### Chill Realm - Minecraft Server Community - Forums/Website/Bot Developer - [Forums](https://chillrealm.ml/)
-#### Free Image Host - Andys Image Host (ImageX) - Helper - [Website](https://andysimagehost.xyz)
 
 ## Projects Paused
 
