@@ -3,7 +3,7 @@
 
 ### I'm a Student, and a Full Stack Developer!!
 
-[![](https://discord.c99.nl/widget/theme-4/300657719721984000.png)]()
+[![](https://discord.c99.nl/widget/theme-4/968613119763030026.png)]()
 
 
 ## Projects Active
