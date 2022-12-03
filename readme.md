@@ -8,17 +8,14 @@
 
 ## Projects Active
 
-#### Chill Hosting - "Free"/ Paid Hosting - CAO/System Admin - [Website](https://chillhosting.xyz) - [Server Inv](https://discord.gg/e9YZTVcBMP)
 #### UnseenStudios - Development Studio - Owner - [Server Inv Coming Soon]()
-#### Olax™ Development - Development Team - Owner / Administrator - [Server Inv Coming Soon]()
-#### Crystal Advertising - Server Advertising Community - CEO - [Server Inv Coming Soon]()
 
 ## Projects Paused
 
 #### Invisible Radio - High Quality Radio Bot - Bot Owner/Bot Developer - [Website](https://invisibleradio.tk)
 #### CenterHost - Free/Paid Hosting - Developer - [Website](https://CenterHost.xyz) - [Server Inv Coming Soon]()
 #### AmongUS Central - Founder - [Server Inv](https://discord.gg/E4aNybFZbj)
-
+#### Chill Hosting - "Free"/ Paid Hosting - CAO/System Admin - [Website](https://chillhosting.xyz) - [Server Inv](https://discord.gg/e9YZTVcBMP)
 
 ## Projects Ended
 
