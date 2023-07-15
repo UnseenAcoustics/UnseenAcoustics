@@ -4,7 +4,7 @@
 ### I'm a Student, and a Full Stack Developer!!
 
 [![](https://discord.c99.nl/widget/theme-4/968613119763030026.png)]()
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=unseenacoustics)
 
 ## Projects Active
 
