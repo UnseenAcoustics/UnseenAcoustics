@@ -3,7 +3,7 @@
 </p>
 
 <h3>Why, hello there. 👋</h3>
-<h4>#I'm a System Administrator, and a Full Stack Developer!!</h4>
+<h4>I'm a System Administrator, and a Full Stack Developer!!</h4>
 
 [![](https://discord.c99.nl/widget/theme-4/968613119763030026.png)]()
 
