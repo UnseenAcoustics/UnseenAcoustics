@@ -53,6 +53,7 @@ programming-languages = [
   'rust',
   'go',
 ]
+```
 ## 💻 Tech I Work With
 <p>
   <img src="https://skillicons.dev/icons?i=js,python,java,cs,rust,go,lua,html,css,react,nodejs,linux,git,docker" />
