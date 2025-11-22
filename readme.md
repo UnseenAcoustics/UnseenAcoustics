@@ -1,14 +1,29 @@
+# 🚀 UnseenAcoustics  
+### **System Administrator • Full-Stack Developer • Creator**
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UnseenAcoustics" alt="UnseenAcoustics" />
+  <img src="https://komarev.com/ghpvc/?username=UnseenAcoustics&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<h3>Why, hello there. 👋</h3>
-<h4>I'm a System Administrator, and a Full Stack Developer!!</h4>
+<p align="center">
+  <a href="https://discord.gg/">
+    <img src="https://discord.c99.nl/widget/theme-4/968613119763030026.png" alt="Discord Profile" />
+  </a>
+</p>
 
-[![](https://discord.c99.nl/widget/theme-4/968613119763030026.png)]()
+---
+
+## 👋 Hey there!
+
+I’m **UnseenAcoustics**, a passionate developer & system administrator who loves building cool things, breaking stuff (ethically 😆), and working across the entire stack.
+
+⚡ *If it runs on Linux, Windows, in the cloud, or in a game engine — I’m probably messing with it.*
+
+---
+
+## 🧩 About Me 
 
 ```toml
-
 [personal]
 name = 'UnseenAcoustics'
 city = 'California, United States'
@@ -38,23 +53,34 @@ programming-languages = [
   'rust',
   'go',
 ]
+## 💻 Tech I Work With
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,java,cs,rust,go,lua,html,css,react,nodejs,linux,git,docker" />
+</p>
 
-```
+---
 
-You can find more at https://unseen.is-a.dev.
-
-I'm always interested in meeting new people, so feel free to reach out to me using the links below.
-
+## 📊 GitHub Stats
 <p align="center">
-  <a href="mailto:unseenacoustics.lol@proton.me"><img src="https://image.flaticon.com/icons/svg/725/725643.svg" height="20" width="20" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=UnseenAcoustics&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UnseenAcoustics&theme=radical" height="165" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=UnseenAcoustics&show_icons=true" alt="UnseenAcoustics" /> 
+---
 
+## 🌐 Find Me Online
+<p align="center">
+  <a href="mailto:unseenacoustics.lol@proton.me">
+    <img src="https://skillicons.dev/icons?i=proton" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://unseen.is-a.dev">
+    <img src="https://skillicons.dev/icons?i=cloudflare" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/UnseenAcoustics">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
 </p>
-<p align="left"> </p>
 
-
-
-⭐️ From [UnseenAcoustics](https://github.com/UnseenAcoustics)
+<p align="center"> ⭐️ From <a href="https://github.com/UnseenAcoustics">UnseenAcoustics</a> </p>
