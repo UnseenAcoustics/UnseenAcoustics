@@ -10,6 +10,7 @@
     href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&family=Inter:wght@300;400;500;600&display=swap"
     rel="stylesheet"
   />
+  <!-- Icons -->
   <link
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
@@ -18,65 +19,74 @@
     referrerpolicy="no-referrer"
   />
 
-  <style>
-
-<link rel="stylesheet" href="main.css">
-
-  </style>
+  <!-- Your main stylesheet -->
+  <link rel="stylesheet" href="main.css" />
 </head>
 
 <body data-theme="dark">
-  <!-- NAVBAR -->
+  <!-- ================= NAVBAR ================= -->
   <header class="nav">
     <div class="nav-inner">
       <div class="brand">
         <div class="brand-title">UnseenAcoustics</div>
         <div class="brand-sub">Full-Stack Developer • System Administrator</div>
       </div>
-      <div class="nav-links">
+
+      <nav class="nav-links" aria-label="Main navigation">
         <a class="nav-link" href="#hero"><span>Home</span></a>
         <a class="nav-link" href="#about"><span>About</span></a>
         <a class="nav-link" href="#skills"><span>Skills</span></a>
         <a class="nav-link" href="#experience"><span>Experience</span></a>
         <a class="nav-link" href="#projects"><span>Projects</span></a>
         <a class="nav-link" href="#contact"><span>Contact</span></a>
+
         <button class="theme-toggle" id="themeToggle" type="button">
           <i class="fas fa-moon"></i>
           <span>Dark</span>
         </button>
-      </div>
+      </nav>
     </div>
   </header>
 
+  <!-- ================= PAGE CONTENT ================= -->
   <main class="page">
     <!-- HERO -->
-    <section id="hero">
+    <section id="hero" class="section">
       <div class="card hero">
-        <div>
-          <div class="hero-eyebrow">System Administrator • Full-Stack Developer</div>
-          <h1 class="hero-title">I build hosting & infra for gamers and creators.</h1>
+        <!-- Hero text column -->
+        <div class="card-body">
+          <p class="hero-eyebrow">System Administrator • Full-Stack Developer</p>
+
+          <h1 class="hero-title">
+            I build hosting &amp; infrastructure for gamers and creators.
+          </h1>
+
           <p class="hero-sub">
             From Linux boxes and panels to front-end experiences and Discord ecosystems,
             I help teams ship reliable hosting that actually feels nice to use.
           </p>
+
           <div class="hero-tags">
             <span class="hero-tag">Hosting Infra</span>
             <span class="hero-tag">Frontend &amp; UI</span>
             <span class="hero-tag">Automation</span>
             <span class="hero-tag">Discord Communities</span>
           </div>
+
           <div class="hero-actions">
             <a href="#projects" class="btn-primary">
               <span>View Projects</span>
               <i class="fas fa-arrow-right"></i>
             </a>
+
             <a href="#contact" class="btn-ghost">
               <i class="far fa-envelope"></i>
               <span>Contact Me</span>
             </a>
           </div>
 
-          <div class="terminal">
+          <!-- Terminal block -->
+          <div class="terminal" aria-label="Terminal-style intro">
             <div class="terminal-header">
               <div class="terminal-dots">
                 <span class="dot-red"></span>
@@ -85,12 +95,15 @@
               </div>
               <div class="terminal-title">~/unseenacoustics/resume.sh</div>
             </div>
+
             <div class="terminal-body">
               <div class="term-line">
                 <span class="term-prompt">$</span>
                 <span class="term-cmd">whoami</span>
               </div>
-              <div class="term-output">unseenacoustics • full-stack dev &amp; sysadmin</div>
+              <div class="term-output">
+                unseenacoustics • full-stack dev &amp; sysadmin
+              </div>
 
               <div class="term-line" style="margin-top:8px;">
                 <span class="term-prompt">$</span>
@@ -114,15 +127,16 @@
           </div>
         </div>
 
+        <!-- Hero avatar column -->
         <div class="hero-avatar-wrap">
           <div class="hero-avatar-orbit">
             <div class="hero-avatar-inner">
-              <!-- Replace with your actual avatar if you want -->
               <img
                 src="https://us-east-1.tixte.net/uploads/unseen.likes.cash/18494802_(1)-modified.png"
                 alt="UnseenAcoustics avatar"
               />
             </div>
+
             <div class="hero-badge">
               <span class="hero-badge-dot"></span>
               <span>Building hosting &amp; infra since 2020</span>
@@ -133,10 +147,11 @@
     </section>
 
     <!-- ABOUT -->
-    <section id="about">
+    <section id="about" class="section">
       <div class="card">
         <div class="section-label"><span>01</span> About</div>
-        <div class="about-grid">
+
+        <div class="about-grid card-body">
           <div class="about-text">
             <p>
               Hey, I’m <strong>UnseenAcoustics</strong>. I live in the overlap between
@@ -144,9 +159,10 @@
               <strong>clean front-end UX</strong>.
             </p>
             <p>
-              I’ve worked with hosting brands like CenterHosting, CrystalNodes, Rising
-              Nodes, VirtualNodes, Floofy Hosting and more – handling everything from
-              web presence and automation to server provisioning and Discord ecosystems.
+              I’ve worked with hosting brands like CenterHosting, CrystalNodes,
+              Rising Nodes, VirtualNodes, Floofy Hosting and more – handling
+              everything from web presence and automation to server provisioning and
+              Discord ecosystems.
             </p>
             <p>
               Right now I’m focusing on <strong>Tortoise Hosting</strong>, where I help
@@ -154,7 +170,8 @@
               player experience.
             </p>
           </div>
-          <div>
+
+          <aside aria-label="Quick bio">
             <div class="bio-grid">
               <div>
                 <div class="bio-label">
@@ -163,6 +180,7 @@
                 </div>
                 <div class="bio-value">(will remain unseen)</div>
               </div>
+
               <div>
                 <div class="bio-label">
                   <i class="far fa-envelope"></i>
@@ -170,6 +188,7 @@
                 </div>
                 <div class="bio-value">unseenacoustics.lol@proton.me</div>
               </div>
+
               <div>
                 <div class="bio-label">
                   <i class="fas fa-phone"></i>
@@ -177,6 +196,7 @@
                 </div>
                 <div class="bio-value">+1 (213) 973-7440</div>
               </div>
+
               <div>
                 <div class="bio-label">
                   <i class="fab fa-discord"></i>
@@ -185,18 +205,20 @@
                 <div class="bio-value">UnseenAcoustics</div>
               </div>
             </div>
-          </div>
+          </aside>
         </div>
       </div>
     </section>
 
     <!-- SKILLS -->
-    <section id="skills">
+    <section id="skills" class="section">
       <div class="card">
         <div class="section-label"><span>02</span> Skills</div>
-        <div class="skills-grid">
+
+        <div class="skills-grid card-body">
+          <!-- Frontend -->
           <div>
-            <div class="skill-group-title">Frontend & UI</div>
+            <p class="skill-group-title">Frontend &amp; UI</p>
 
             <div class="skill-row">
               <div class="skill-header">
@@ -239,8 +261,9 @@
             </div>
           </div>
 
+          <!-- Backend / Infra -->
           <div>
-            <div class="skill-group-title">Backend, Infra & Tools</div>
+            <p class="skill-group-title">Backend, Infra &amp; Tools</p>
 
             <div class="skill-row">
               <div class="skill-header">
@@ -287,10 +310,12 @@
     </section>
 
     <!-- EXPERIENCE -->
-    <section id="experience">
+    <section id="experience" class="section">
       <div class="card">
         <div class="section-label"><span>03</span> Experience</div>
-        <div class="timeline">
+
+        <div class="timeline card-body">
+          <!-- one item per role -->
           <div class="timeline-item">
             <div class="timeline-dot"></div>
             <div class="timeline-card">
@@ -383,10 +408,11 @@
     </section>
 
     <!-- PROJECTS -->
-    <section id="projects">
+    <section id="projects" class="section">
       <div class="card">
         <div class="section-label"><span>04</span> Projects</div>
-        <div class="projects-grid">
+
+        <div class="projects-grid card-body">
           <article class="project-card">
             <div class="project-media">
               <img
@@ -417,7 +443,7 @@
             <div class="project-media">
               <img
                 src="https://us-east-1.tixte.net/uploads/unseen.likes.cash/Opera_Snapshot_2023-07-14_222059_beta.tortoise-hosting.com.png"
-                alt="Tortoise Hosting"
+                alt="Tortoise Hosting website"
               />
               <span class="project-label">Live Site</span>
             </div>
@@ -425,8 +451,8 @@
               <div class="project-tags">Hosting • Brand • Frontend</div>
               <h3 class="project-title">Tortoise Hosting – Web Experience</h3>
               <p class="project-desc">
-                Gamer-centric hosting experience with pricing tables, server categories, and
-                a clean, calm visual language designed for long-term use.
+                Gamer-centric hosting experience with pricing tables, server categories,
+                and a clean, calm visual language designed for long-term use.
               </p>
               <a
                 href="https://tortoise-hosting.com"
@@ -461,7 +487,7 @@
             <div class="project-media">
               <img
                 src="https://us-east-1.tixte.net/uploads/unseen.likes.cash/Opera_Snapshot_2023-07-14_223011_index.html.png"
-                alt="Alternative UI"
+                alt="Alternative hosting UI"
               />
               <span class="project-label">Concept</span>
             </div>
@@ -469,8 +495,8 @@
               <div class="project-tags">UI System • Variants</div>
               <h3 class="project-title">Alternative Hosting UI System</h3>
               <p class="project-desc">
-                Color and layout variations testing different ways to present plans, add-ons,
-                and onboarding flows for game servers.
+                Color and layout variations testing different ways to present plans,
+                add-ons, and onboarding flows for game servers.
               </p>
             </div>
           </article>
@@ -479,23 +505,27 @@
     </section>
 
     <!-- CONTACT -->
-    <section id="contact">
+    <section id="contact" class="section">
       <div class="card">
         <div class="section-label"><span>05</span> Contact</div>
-        <div class="contact-grid">
+
+        <div class="contact-grid card-body">
           <div>
             <p class="contact-text">
               Want help with a hosting project, infra cleanup, a new panel/front-end, or
               Discord server architecture? Reach out and tell me what you’re building.
             </p>
+
             <div class="contact-item">
               <i class="far fa-envelope"></i>
               <span>unseenacoustics.lol@proton.me</span>
             </div>
+
             <div class="contact-item">
               <i class="fab fa-discord"></i>
               <span>UnseenAcoustics</span>
             </div>
+
             <div class="contact-item">
               <i class="fas fa-location-dot"></i>
               <span>Remote • Flexible time zones</span>
@@ -503,20 +533,23 @@
           </div>
 
           <div>
-            <!-- Non-functional example form (you can wire it to something later) -->
+            <!-- Example form (placeholder) -->
             <form class="contact-form">
               <div class="field">
                 <label for="name">Name</label>
                 <input id="name" type="text" placeholder="Your name" />
               </div>
+
               <div class="field">
                 <label for="email">Email</label>
                 <input id="email" type="email" placeholder="you@example.com" />
               </div>
+
               <div class="field">
                 <label for="project">Project / Message</label>
                 <textarea id="project" rows="4" placeholder="Tell me what you’re working on..."></textarea>
               </div>
+
               <button type="button" class="btn-primary" style="width:max-content;">
                 <span>Send (placeholder)</span>
                 <i class="fas fa-paper-plane"></i>
@@ -528,28 +561,33 @@
     </section>
   </main>
 
+  <!-- ================= FOOTER ================= -->
   <footer>
-    <div>
-      <strong>UnseenAcoustics</strong>
+    <div><strong>UnseenAcoustics</strong></div>
+    <div style="margin-top:4px;">
+      © <span id="year"></span> UnseenAcoustics. All rights reserved.
     </div>
-    <div style="margin-top:4px;">© <span id="year"></span> UnseenAcoustics. All rights reserved.</div>
   </footer>
 
+  <!-- ================= SCRIPTS ================= -->
   <script>
-    // Year
+    // Dynamic year
     document.getElementById("year").textContent = new Date().getFullYear();
 
     // Theme toggle
     const body = document.body;
     const toggle = document.getElementById("themeToggle");
     const stored = localStorage.getItem("ua-theme");
+
     if (stored === "light" || stored === "dark") {
       body.setAttribute("data-theme", stored);
     }
+
     function updateToggle() {
       const current = body.getAttribute("data-theme") || "dark";
       const icon = toggle.querySelector("i");
       const label = toggle.querySelector("span");
+
       if (current === "dark") {
         icon.className = "fas fa-moon";
         label.textContent = "Dark";
@@ -558,9 +596,12 @@
         label.textContent = "Light";
       }
     }
+
     updateToggle();
+
     toggle.addEventListener("click", () => {
-      const current = body.getAttribute("data-theme") === "dark" ? "light" : "dark";
+      const current =
+        body.getAttribute("data-theme") === "dark" ? "light" : "dark";
       body.setAttribute("data-theme", current);
       localStorage.setItem("ua-theme", current);
       updateToggle();
