@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>UnseenAcoustics – Dev & Sysadmin</title>
+  <title>UnseenAcoustics</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <!-- Fonts -->
@@ -10,34 +10,31 @@
     href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&family=Inter:wght@300;400;500;600&display=swap"
     rel="stylesheet"
   />
+
   <!-- Icons -->
   <link
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
-    integrity="sha512-bxWyGqHycM4QyU2f5FJg8nH9K0Jq4rP5JH9X7K2kS3qPWSTEHjZsq+O0f0TCG8RoWDVYdWv0S3TG3Ks3vHHOw=="
     crossorigin="anonymous"
     referrerpolicy="no-referrer"
   />
 
-  <!-- Your main stylesheet -->
+  <!-- Main CSS -->
   <link rel="stylesheet" href="main.css" />
 </head>
 
 <body data-theme="dark">
-  <!-- ================= NAVBAR ================= -->
+  <!-- ========== NAVBAR ========== -->
   <header class="nav">
     <div class="nav-inner">
       <div class="brand">
         <div class="brand-title">UnseenAcoustics</div>
-        <div class="brand-sub">Full-Stack Developer • System Administrator</div>
+        <div class="brand-sub">Developer • System Administrator</div>
       </div>
 
       <nav class="nav-links" aria-label="Main navigation">
         <a class="nav-link" href="#hero"><span>Home</span></a>
         <a class="nav-link" href="#about"><span>About</span></a>
-        <a class="nav-link" href="#skills"><span>Skills</span></a>
-        <a class="nav-link" href="#experience"><span>Experience</span></a>
-        <a class="nav-link" href="#projects"><span>Projects</span></a>
         <a class="nav-link" href="#contact"><span>Contact</span></a>
 
         <button class="theme-toggle" id="themeToggle" type="button">
@@ -48,44 +45,43 @@
     </div>
   </header>
 
-  <!-- ================= PAGE CONTENT ================= -->
+  <!-- ========== PAGE CONTENT ========== -->
   <main class="page">
     <!-- HERO -->
     <section id="hero" class="section">
       <div class="card hero">
-        <!-- Hero text column -->
+        <!-- Left: text + terminal -->
         <div class="card-body">
-          <p class="hero-eyebrow">System Administrator • Full-Stack Developer</p>
+          <p class="hero-eyebrow">UnseenAcoustics</p>
 
           <h1 class="hero-title">
-            I build hosting &amp; infrastructure for gamers and creators.
+            I build and manage infrastructure for games, servers & communities.
           </h1>
 
           <p class="hero-sub">
-            From Linux boxes and panels to front-end experiences and Discord ecosystems,
-            I help teams ship reliable hosting that actually feels nice to use.
+            Full-stack tools, Linux servers, Discord ecosystems — I like making things
+            stable, fast, and actually fun to use.
           </p>
 
           <div class="hero-tags">
-            <span class="hero-tag">Hosting Infra</span>
-            <span class="hero-tag">Frontend &amp; UI</span>
-            <span class="hero-tag">Automation</span>
-            <span class="hero-tag">Discord Communities</span>
+            <span class="hero-tag">Dev &amp; Sysadmin</span>
+            <span class="hero-tag">Hosting / Infra</span>
+            <span class="hero-tag">Discord &amp; Automation</span>
           </div>
 
           <div class="hero-actions">
-            <a href="#projects" class="btn-primary">
-              <span>View Projects</span>
+            <a href="#contact" class="btn-primary">
+              <span>Contact</span>
               <i class="fas fa-arrow-right"></i>
             </a>
 
-            <a href="#contact" class="btn-ghost">
-              <i class="far fa-envelope"></i>
-              <span>Contact Me</span>
+            <a href="#about" class="btn-ghost">
+              <i class="far fa-user"></i>
+              <span>About Me</span>
             </a>
           </div>
 
-          <!-- Terminal block -->
+          <!-- Terminal -->
           <div class="terminal" aria-label="Terminal-style intro">
             <div class="terminal-header">
               <div class="terminal-dots">
@@ -93,7 +89,7 @@
                 <span class="dot-amber"></span>
                 <span class="dot-green"></span>
               </div>
-              <div class="terminal-title">~/unseenacoustics/resume.sh</div>
+              <div class="terminal-title">~/unseenacoustics/profile.sh</div>
             </div>
 
             <div class="terminal-body">
@@ -102,16 +98,16 @@
                 <span class="term-cmd">whoami</span>
               </div>
               <div class="term-output">
-                unseenacoustics • full-stack dev &amp; sysadmin
+                unseenacoustics • dev &amp; system administrator
               </div>
 
               <div class="term-line" style="margin-top:8px;">
                 <span class="term-prompt">$</span>
-                <span class="term-cmd">roles --primary</span>
+                <span class="term-cmd">stack --focus</span>
               </div>
-              <div class="term-output">• System Administrator – Hosting Infra</div>
-              <div class="term-output">• Frontend Developer – HTML / CSS / JS</div>
-              <div class="term-output">• Discord &amp; Community Architect</div>
+              <div class="term-output">• Linux &amp; server management</div>
+              <div class="term-output">• HTML / CSS / JavaScript</div>
+              <div class="term-output">• Discord hosting &amp; automation</div>
 
               <div class="term-line" style="margin-top:8px;">
                 <span class="term-prompt">$</span>
@@ -120,14 +116,14 @@
               <div class="term-output">
                 <span style="display:inline-flex;align-items:center;gap:6px;">
                   <span class="hero-badge-dot" style="box-shadow:none;"></span>
-                  open for remote &amp; freelance work
+                  open to collabs &amp; remote work
                 </span>
               </div>
             </div>
           </div>
         </div>
 
-        <!-- Hero avatar column -->
+        <!-- Right: avatar -->
         <div class="hero-avatar-wrap">
           <div class="hero-avatar-orbit">
             <div class="hero-avatar-inner">
@@ -139,7 +135,7 @@
 
             <div class="hero-badge">
               <span class="hero-badge-dot"></span>
-              <span>Building hosting &amp; infra since 2020</span>
+              <span>Online • Working on hosting stuff</span>
             </div>
           </div>
         </div>
@@ -154,20 +150,19 @@
         <div class="about-grid card-body">
           <div class="about-text">
             <p>
-              Hey, I’m <strong>UnseenAcoustics</strong>. I live in the overlap between
-              <strong>Linux systems</strong>, <strong>game hosting</strong>, and
-              <strong>clean front-end UX</strong>.
+              I’m <strong>UnseenAcoustics</strong>, a developer and system administrator
+              who likes to live in the background making sure everything just… works.
             </p>
             <p>
-              I’ve worked with hosting brands like CenterHosting, CrystalNodes,
-              Rising Nodes, VirtualNodes, Floofy Hosting and more – handling
-              everything from web presence and automation to server provisioning and
-              Discord ecosystems.
+              Most of my time revolves around
+              <strong>game servers, hosting panels, Linux boxes</strong>, and
+              <strong>Discord communities</strong> — building small tools, cleaning up
+              infra, and tightening up UX so players and staff don’t fight the
+              tech.
             </p>
             <p>
-              Right now I’m focusing on <strong>Tortoise Hosting</strong>, where I help
-              shape infrastructure decisions, user-facing dashboards, and the overall
-              player experience.
+              I enjoy turning messy setups into something simple: clear structure,
+              solid uptime, and a clean front-end on top.
             </p>
           </div>
 
@@ -191,18 +186,18 @@
 
               <div>
                 <div class="bio-label">
-                  <i class="fas fa-phone"></i>
-                  Phone
-                </div>
-                <div class="bio-value">+1 (213) 973-7440</div>
-              </div>
-
-              <div>
-                <div class="bio-label">
                   <i class="fab fa-discord"></i>
                   Discord
                 </div>
                 <div class="bio-value">UnseenAcoustics</div>
+              </div>
+
+              <div>
+                <div class="bio-label">
+                  <i class="fas fa-location-dot"></i>
+                  Location
+                </div>
+                <div class="bio-value">Remote • Flexible time zones</div>
               </div>
             </div>
           </aside>
@@ -210,310 +205,16 @@
       </div>
     </section>
 
-    <!-- SKILLS -->
-    <section id="skills" class="section">
-      <div class="card">
-        <div class="section-label"><span>02</span> Skills</div>
-
-        <div class="skills-grid card-body">
-          <!-- Frontend -->
-          <div>
-            <p class="skill-group-title">Frontend &amp; UI</p>
-
-            <div class="skill-row">
-              <div class="skill-header">
-                <span>HTML</span>
-                <span class="skill-level">MASTER</span>
-              </div>
-              <div class="skill-bar">
-                <div class="skill-bar-fill" style="width:95%;"></div>
-              </div>
-            </div>
-
-            <div class="skill-row">
-              <div class="skill-header">
-                <span>CSS</span>
-                <span class="skill-level">EXPERT</span>
-              </div>
-              <div class="skill-bar">
-                <div class="skill-bar-fill" style="width:85%;"></div>
-              </div>
-            </div>
-
-            <div class="skill-row">
-              <div class="skill-header">
-                <span>JavaScript</span>
-                <span class="skill-level">ADVANCED</span>
-              </div>
-              <div class="skill-bar">
-                <div class="skill-bar-fill" style="width:75%;"></div>
-              </div>
-            </div>
-
-            <div class="skill-row">
-              <div class="skill-header">
-                <span>UX / Layout Systems</span>
-                <span class="skill-level">ADVANCED</span>
-              </div>
-              <div class="skill-bar">
-                <div class="skill-bar-fill" style="width:72%;"></div>
-              </div>
-            </div>
-          </div>
-
-          <!-- Backend / Infra -->
-          <div>
-            <p class="skill-group-title">Backend, Infra &amp; Tools</p>
-
-            <div class="skill-row">
-              <div class="skill-header">
-                <span>Linux</span>
-                <span class="skill-level">MASTER</span>
-              </div>
-              <div class="skill-bar">
-                <div class="skill-bar-fill secondary" style="width:97%;"></div>
-              </div>
-            </div>
-
-            <div class="skill-row">
-              <div class="skill-header">
-                <span>Python</span>
-                <span class="skill-level">ADVANCED</span>
-              </div>
-              <div class="skill-bar">
-                <div class="skill-bar-fill secondary" style="width:67%;"></div>
-              </div>
-            </div>
-
-            <div class="skill-row">
-              <div class="skill-header">
-                <span>Java</span>
-                <span class="skill-level">ADVANCED</span>
-              </div>
-              <div class="skill-bar">
-                <div class="skill-bar-fill secondary" style="width:50%;"></div>
-              </div>
-            </div>
-
-            <div class="skill-row">
-              <div class="skill-header">
-                <span>Go / C++</span>
-                <span class="skill-level">LEARNING</span>
-              </div>
-              <div class="skill-bar">
-                <div class="skill-bar-fill secondary" style="width:35%;"></div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- EXPERIENCE -->
-    <section id="experience" class="section">
-      <div class="card">
-        <div class="section-label"><span>03</span> Experience</div>
-
-        <div class="timeline card-body">
-          <!-- one item per role -->
-          <div class="timeline-item">
-            <div class="timeline-dot"></div>
-            <div class="timeline-card">
-              <div class="timeline-role">
-                Website Developer
-                <span class="timeline-company">• CubeServers</span>
-              </div>
-              <div class="timeline-meta">July 2023 – Present</div>
-            </div>
-          </div>
-
-          <div class="timeline-item">
-            <div class="timeline-dot"></div>
-            <div class="timeline-card">
-              <div class="timeline-role">
-                Chief Administration Officer / System Administrator
-                <span class="timeline-company">• Tortoise Hosting</span>
-              </div>
-              <div class="timeline-meta">July 2023 – Present</div>
-            </div>
-          </div>
-
-          <div class="timeline-item">
-            <div class="timeline-dot"></div>
-            <div class="timeline-card">
-              <div class="timeline-role">
-                Chief Administration Officer / System Administrator
-                <span class="timeline-company">• Nano Hosting</span>
-              </div>
-              <div class="timeline-meta">May 2023 – July 2023</div>
-            </div>
-          </div>
-
-          <div class="timeline-item">
-            <div class="timeline-dot"></div>
-            <div class="timeline-card">
-              <div class="timeline-role">
-                Chief Administration Officer / System Administrator
-                <span class="timeline-company">• Chill Hosting</span>
-              </div>
-              <div class="timeline-meta">Dec 2022 – Mar 2023</div>
-            </div>
-          </div>
-
-          <div class="timeline-item">
-            <div class="timeline-dot"></div>
-            <div class="timeline-card">
-              <div class="timeline-role">
-                System Administrator
-                <span class="timeline-company">• CenterHost</span>
-              </div>
-              <div class="timeline-meta">June 2022 – Dec 2022</div>
-            </div>
-          </div>
-
-          <div class="timeline-item">
-            <div class="timeline-dot"></div>
-            <div class="timeline-card">
-              <div class="timeline-role">
-                Website Developer / Server Designer
-                <span class="timeline-company">• RisingNodes</span>
-              </div>
-              <div class="timeline-meta">Feb 2022 – Apr 2022</div>
-            </div>
-          </div>
-
-          <div class="timeline-item">
-            <div class="timeline-dot"></div>
-            <div class="timeline-card">
-              <div class="timeline-role">
-                Chief Executive Officer
-                <span class="timeline-company">• Crystal Nodes</span>
-              </div>
-              <div class="timeline-meta">July 2021 – Dec 2021</div>
-            </div>
-          </div>
-
-          <div class="timeline-item">
-            <div class="timeline-dot"></div>
-            <div class="timeline-card">
-              <div class="timeline-role">
-                Chief Operations Officer
-                <span class="timeline-company">• Virtual Nodes</span>
-              </div>
-              <div class="timeline-meta">Dec 2020 – June 2021</div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- PROJECTS -->
-    <section id="projects" class="section">
-      <div class="card">
-        <div class="section-label"><span>04</span> Projects</div>
-
-        <div class="projects-grid card-body">
-          <article class="project-card">
-            <div class="project-media">
-              <img
-                src="https://us-east-1.tixte.net/uploads/unseen.likes.cash/Opera_Snapshot_2023-07-28_140239_index.html.png"
-                alt="CubeServers website"
-              />
-              <span class="project-label">Live Site</span>
-            </div>
-            <div class="project-body">
-              <div class="project-tags">Hosting • Frontend • UX</div>
-              <h3 class="project-title">CubeServers – Hosting Company Website</h3>
-              <p class="project-desc">
-                Marketing and plan layout for a game hosting provider. Focused on clear
-                pricing, responsive design, and fast load times.
-              </p>
-              <a
-                href="https://cubeservers.us"
-                target="_blank"
-                rel="noopener"
-                class="project-link"
-              >
-                Visit site <i class="fas fa-arrow-up-right-from-square"></i>
-              </a>
-            </div>
-          </article>
-
-          <article class="project-card">
-            <div class="project-media">
-              <img
-                src="https://us-east-1.tixte.net/uploads/unseen.likes.cash/Opera_Snapshot_2023-07-14_222059_beta.tortoise-hosting.com.png"
-                alt="Tortoise Hosting website"
-              />
-              <span class="project-label">Live Site</span>
-            </div>
-            <div class="project-body">
-              <div class="project-tags">Hosting • Brand • Frontend</div>
-              <h3 class="project-title">Tortoise Hosting – Web Experience</h3>
-              <p class="project-desc">
-                Gamer-centric hosting experience with pricing tables, server categories,
-                and a clean, calm visual language designed for long-term use.
-              </p>
-              <a
-                href="https://tortoise-hosting.com"
-                target="_blank"
-                rel="noopener"
-                class="project-link"
-              >
-                Visit site <i class="fas fa-arrow-up-right-from-square"></i>
-              </a>
-            </div>
-          </article>
-
-          <article class="project-card">
-            <div class="project-media">
-              <img
-                src="https://us-east-1.tixte.net/uploads/unseen.likes.cash/Opera_Snapshot_2023-07-14_222718_index.html.png"
-                alt="Hosting landing concept"
-              />
-              <span class="project-label">Concept</span>
-            </div>
-            <div class="project-body">
-              <div class="project-tags">UI • Landing Page</div>
-              <h3 class="project-title">Hosting Landing Concept</h3>
-              <p class="project-desc">
-                Exploration of hero, feature grid, and trust-signal layout for a modern
-                hosting brand targeting Minecraft players.
-              </p>
-            </div>
-          </article>
-
-          <article class="project-card">
-            <div class="project-media">
-              <img
-                src="https://us-east-1.tixte.net/uploads/unseen.likes.cash/Opera_Snapshot_2023-07-14_223011_index.html.png"
-                alt="Alternative hosting UI"
-              />
-              <span class="project-label">Concept</span>
-            </div>
-            <div class="project-body">
-              <div class="project-tags">UI System • Variants</div>
-              <h3 class="project-title">Alternative Hosting UI System</h3>
-              <p class="project-desc">
-                Color and layout variations testing different ways to present plans,
-                add-ons, and onboarding flows for game servers.
-              </p>
-            </div>
-          </article>
-        </div>
-      </div>
-    </section>
-
     <!-- CONTACT -->
     <section id="contact" class="section">
       <div class="card">
-        <div class="section-label"><span>05</span> Contact</div>
+        <div class="section-label"><span>02</span> Contact</div>
 
         <div class="contact-grid card-body">
           <div>
             <p class="contact-text">
-              Want help with a hosting project, infra cleanup, a new panel/front-end, or
-              Discord server architecture? Reach out and tell me what you’re building.
+              Want to build something, fix a messy setup, or just talk servers &amp; infra?
+              Hit me up and tell me what you’re working on.
             </p>
 
             <div class="contact-item">
@@ -525,15 +226,10 @@
               <i class="fab fa-discord"></i>
               <span>UnseenAcoustics</span>
             </div>
-
-            <div class="contact-item">
-              <i class="fas fa-location-dot"></i>
-              <span>Remote • Flexible time zones</span>
-            </div>
           </div>
 
           <div>
-            <!-- Example form (placeholder) -->
+            <!-- Simple placeholder form (not wired to backend) -->
             <form class="contact-form">
               <div class="field">
                 <label for="name">Name</label>
@@ -546,8 +242,8 @@
               </div>
 
               <div class="field">
-                <label for="project">Project / Message</label>
-                <textarea id="project" rows="4" placeholder="Tell me what you’re working on..."></textarea>
+                <label for="message">Message</label>
+                <textarea id="message" rows="4" placeholder="Tell me what you’re building..."></textarea>
               </div>
 
               <button type="button" class="btn-primary" style="width:max-content;">
@@ -561,7 +257,7 @@
     </section>
   </main>
 
-  <!-- ================= FOOTER ================= -->
+  <!-- ========== FOOTER ========== -->
   <footer>
     <div><strong>UnseenAcoustics</strong></div>
     <div style="margin-top:4px;">
@@ -569,7 +265,7 @@
     </div>
   </footer>
 
-  <!-- ================= SCRIPTS ================= -->
+  <!-- ========== SCRIPTS ========== -->
   <script>
     // Dynamic year
     document.getElementById("year").textContent = new Date().getFullYear();
