@@ -26,7 +26,7 @@ I’m **UnseenAcoustics**, a passionate developer & system administrator who lov
 ```toml
 [personal]
 name = 'UnseenAcoustics'
-city = 'California, United States'
+city = 'Devens, Massachusetts, United States'
 email = 'unseenacoustics.lol@proton.me'
 
 [professional]
