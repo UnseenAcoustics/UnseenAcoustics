@@ -85,6 +85,4 @@ programming-languages = [
   </a>
 </p>
 
-<p align="center">⭐️ From <a href="https://github.com/UnseenAcoustics">UnseenAcoustics</a></p>
-
 <p align="center"> ⭐️ From <a href="https://github.com/UnseenAcoustics">UnseenAcoustics</a> </p>
