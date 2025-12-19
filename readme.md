@@ -70,9 +70,10 @@ programming-languages = [
 ---
 
 ## 🌐 Find Me Online
+
 <p align="center">
   <a href="mailto:unseenacoustics.lol@proton.me">
-    <img src="https://skillicons.dev/icons?i=proton" height="40"/>
+    <img src="https://skillicons.dev/icons?i=mail" height="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://unseen.is-a.dev">
