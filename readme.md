@@ -73,16 +73,18 @@ programming-languages = [
 
 <p align="center">
   <a href="mailto:unseenacoustics.lol@proton.me">
-    <img src="https://skillicons.dev/icons?i=mail" height="40"/>
+    <img src="https://cdn.simpleicons.org/protonmail/8B89CC" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://unseen.is-a.dev">
-    <img src="https://skillicons.dev/icons?i=cloudflare" height="40"/>
+    <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/UnseenAcoustics">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" height="40" />
   </a>
 </p>
+
+<p align="center">⭐️ From <a href="https://github.com/UnseenAcoustics">UnseenAcoustics</a></p>
 
 <p align="center"> ⭐️ From <a href="https://github.com/UnseenAcoustics">UnseenAcoustics</a> </p>
