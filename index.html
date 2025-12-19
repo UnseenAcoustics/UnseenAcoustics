@@ -1,307 +1,138 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <title>UnseenAcoustics</title>
+  <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-
-  <!-- Fonts -->
-  <link
-    href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&family=Inter:wght@300;400;500;600&display=swap"
-    rel="stylesheet"
-  />
-
-  <!-- Icons -->
-  <link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
-    crossorigin="anonymous"
-    referrerpolicy="no-referrer"
-  />
-
-  <!-- Main CSS -->
-  <link rel="stylesheet" href="main.css" />
+  <title>UnseenAcoustics</title>
+  <meta name="description" content="UnseenAcoustics — System Administrator • Full-Stack Developer • Creator" />
+  <link rel="stylesheet" href="style.css" />
 </head>
 
-<body data-theme="dark">
-  <!-- ========== NAVBAR ========== -->
-  <header class="nav">
-    <div class="nav-inner">
+<body>
+  <div class="wrap">
+    <header class="topbar">
       <div class="brand">
-        <div class="brand-title">UnseenAcoustics</div>
-        <div class="brand-sub">Developer • System Administrator</div>
+        <div class="brand-dot" aria-hidden="true"></div>
+        <span>UnseenAcoustics</span>
       </div>
 
-      <nav class="nav-links" aria-label="Main navigation">
-        <a class="nav-link" href="#hero"><span>Home</span></a>
-        <a class="nav-link" href="#about"><span>About</span></a>
-        <a class="nav-link" href="#contact"><span>Contact</span></a>
+      <img
+        src="https://komarev.com/ghpvc/?username=UnseenAcoustics&color=grey&style=for-the-badge"
+        alt="Profile Views"
+      />
+    </header>
 
-        <button class="theme-toggle" id="themeToggle" type="button">
-          <i class="fas fa-moon"></i>
-          <span>Dark</span>
-        </button>
-      </nav>
-    </div>
-  </header>
+    <main class="grid">
+      <!-- Left -->
+      <section class="card">
+        <div class="card-inner">
+          <h1>🚀 UnseenAcoustics</h1>
+          <h2>System Administrator • Full-Stack Developer • Creator</h2>
 
-  <!-- ========== PAGE CONTENT ========== -->
-  <main class="page">
-    <!-- HERO -->
-    <section id="hero" class="section">
-      <div class="card hero">
-        <!-- Left: text + terminal -->
-        <div class="card-body">
-          <p class="hero-eyebrow">UnseenAcoustics</p>
-
-          <h1 class="hero-title">
-            I build and manage infrastructure for games, servers & communities.
-          </h1>
-
-          <p class="hero-sub">
-            Full-stack tools, Linux servers, Discord ecosystems — I like making things
-            stable, fast, and actually fun to use.
+          <p>
+            I’m <strong>UnseenAcoustics</strong>, a passionate developer & system administrator who loves building cool things,
+            breaking stuff (ethically 😆), and working across the entire stack.
           </p>
 
-          <div class="hero-tags">
-            <span class="hero-tag">Dev &amp; Sysadmin</span>
-            <span class="hero-tag">Hosting / Infra</span>
-            <span class="hero-tag">Discord &amp; Automation</span>
+          <div class="quote">
+            ⚡ If it runs on Linux, Windows, in the cloud, or in a game engine — I’m probably messing with it.
           </div>
 
-          <div class="hero-actions">
-            <a href="#contact" class="btn-primary">
-              <span>Contact</span>
-              <i class="fas fa-arrow-right"></i>
+          <div class="divider"></div>
+
+          <div class="section-title">About Me</div>
+          <pre><code>[personal]
+name = 'UnseenAcoustics'
+city = 'Devens, Massachusetts, United States'
+email = 'unseenacoustics.lol@proton.me'
+
+[professional]
+currently-employed = true
+title = 'Military Police'
+mos = 'MOS 31B'
+employer = 'U.S. Army'
+
+[bio]
+categories = [
+  'generalist',
+]
+interests = [
+  'functional-programming',
+  'linux',
+  'open-source',
+  'Windows'
+]
+programming-languages = [
+  'javascript',
+  'python',
+  'java',
+  'unity/c#',
+  'rust',
+  'go',
+]</code></pre>
+
+          <div class="divider"></div>
+
+          <div class="section-title">Tech I Work With</div>
+          <div class="icons">
+            <img
+              src="https://skillicons.dev/icons?i=js,python,java,cs,rust,go,lua,html,css,react,nodejs,linux,git,docker"
+              alt="Tech stack"
+            />
+          </div>
+        </div>
+      </section>
+
+      <!-- Right -->
+      <aside class="card">
+        <div class="card-inner">
+          <div class="section-title">Discord</div>
+
+          <a href="https://discord.gg/" target="_blank" rel="noopener noreferrer">
+            <img
+              class="discord-widget"
+              src="https://discord.c99.nl/widget/theme-4/968613119763030026.png"
+              alt="Discord Profile"
+            />
+          </a>
+
+          <div class="divider"></div>
+
+          <div class="section-title">GitHub Stats</div>
+          <div class="stats">
+            <img
+              src="https://github-readme-stats.vercel.app/api?username=UnseenAcoustics&show_icons=true&theme=graywhite"
+              alt="GitHub stats"
+            />
+            <img
+              src="https://github-readme-streak-stats.herokuapp.com/?user=UnseenAcoustics&theme=graywhite"
+              alt="GitHub streak stats"
+            />
+          </div>
+
+          <div class="divider"></div>
+
+          <div class="section-title">Find Me Online</div>
+          <div class="links">
+            <a class="linkbtn" href="mailto:unseenacoustics.lol@proton.me" aria-label="Email">
+              <img src="https://cdn.simpleicons.org/protonmail/8B89CC" height="32" alt="Proton Mail" />
             </a>
 
-            <a href="#about" class="btn-ghost">
-              <i class="far fa-user"></i>
-              <span>About Me</span>
+            <a class="linkbtn" href="https://unseen.is-a.dev" target="_blank" rel="noopener noreferrer" aria-label="Website">
+              <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="32" alt="Cloudflare" />
+            </a>
+
+            <a class="linkbtn" href="https://github.com/UnseenAcoustics" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+              <img src="https://cdn.simpleicons.org/github/FFFFFF" height="32" alt="GitHub" />
             </a>
           </div>
 
-          <!-- Terminal -->
-          <div class="terminal" aria-label="Terminal-style intro">
-            <div class="terminal-header">
-              <div class="terminal-dots">
-                <span class="dot-red"></span>
-                <span class="dot-amber"></span>
-                <span class="dot-green"></span>
-              </div>
-              <div class="terminal-title">~/unseenacoustics/profile.sh</div>
-            </div>
-
-            <div class="terminal-body">
-              <div class="term-line">
-                <span class="term-prompt">$</span>
-                <span class="term-cmd">whoami</span>
-              </div>
-              <div class="term-output">
-                unseenacoustics • dev &amp; system administrator
-              </div>
-
-              <div class="term-line" style="margin-top:8px;">
-                <span class="term-prompt">$</span>
-                <span class="term-cmd">stack --focus</span>
-              </div>
-              <div class="term-output">• Linux &amp; server management</div>
-              <div class="term-output">• HTML / CSS / JavaScript</div>
-              <div class="term-output">• Discord hosting &amp; automation</div>
-
-              <div class="term-line" style="margin-top:8px;">
-                <span class="term-prompt">$</span>
-                <span class="term-cmd">status --availability</span>
-              </div>
-              <div class="term-output">
-                <span style="display:inline-flex;align-items:center;gap:6px;">
-                  <span class="hero-badge-dot" style="box-shadow:none;"></span>
-                  open to collabs &amp; remote work
-                </span>
-              </div>
-            </div>
-          </div>
+          <footer class="footer">
+            ⭐ From <a href="https://github.com/UnseenAcoustics" target="_blank" rel="noopener noreferrer">UnseenAcoustics</a>
+          </footer>
         </div>
-
-        <!-- Right: avatar -->
-        <div class="hero-avatar-wrap">
-          <div class="hero-avatar-orbit">
-            <div class="hero-avatar-inner">
-              <img
-                src="https://us-east-1.tixte.net/uploads/unseen.likes.cash/18494802_(1)-modified.png"
-                alt="UnseenAcoustics avatar"
-              />
-            </div>
-
-            <div class="hero-badge">
-              <span class="hero-badge-dot"></span>
-              <span>Online • Working on hosting stuff</span>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- ABOUT -->
-    <section id="about" class="section">
-      <div class="card">
-        <div class="section-label"><span>01</span> About</div>
-
-        <div class="about-grid card-body">
-          <div class="about-text">
-            <p>
-              I’m <strong>UnseenAcoustics</strong>, a developer and system administrator
-              who likes to live in the background making sure everything just… works.
-            </p>
-            <p>
-              Most of my time revolves around
-              <strong>game servers, hosting panels, Linux boxes</strong>, and
-              <strong>Discord communities</strong> — building small tools, cleaning up
-              infra, and tightening up UX so players and staff don’t fight the
-              tech.
-            </p>
-            <p>
-              I enjoy turning messy setups into something simple: clear structure,
-              solid uptime, and a clean front-end on top.
-            </p>
-          </div>
-
-          <aside aria-label="Quick bio">
-            <div class="bio-grid">
-              <div>
-                <div class="bio-label">
-                  <i class="far fa-calendar-alt"></i>
-                  Age
-                </div>
-                <div class="bio-value">(will remain unseen)</div>
-              </div>
-
-              <div>
-                <div class="bio-label">
-                  <i class="far fa-envelope"></i>
-                  Email
-                </div>
-                <div class="bio-value">unseenacoustics.lol@proton.me</div>
-              </div>
-
-              <div>
-                <div class="bio-label">
-                  <i class="fab fa-discord"></i>
-                  Discord
-                </div>
-                <div class="bio-value">UnseenAcoustics</div>
-              </div>
-
-              <div>
-                <div class="bio-label">
-                  <i class="fas fa-location-dot"></i>
-                  Location
-                </div>
-                <div class="bio-value">Remote • Flexible time zones</div>
-              </div>
-            </div>
-          </aside>
-        </div>
-      </div>
-    </section>
-
-    <!-- CONTACT -->
-    <section id="contact" class="section">
-      <div class="card">
-        <div class="section-label"><span>02</span> Contact</div>
-
-        <div class="contact-grid card-body">
-          <div>
-            <p class="contact-text">
-              Want to build something, fix a messy setup, or just talk servers &amp; infra?
-              Hit me up and tell me what you’re working on.
-            </p>
-
-            <div class="contact-item">
-              <i class="far fa-envelope"></i>
-              <span>unseenacoustics.lol@proton.me</span>
-            </div>
-
-            <div class="contact-item">
-              <i class="fab fa-discord"></i>
-              <span>UnseenAcoustics</span>
-            </div>
-          </div>
-
-          <div>
-            <!-- Simple placeholder form (not wired to backend) -->
-            <form class="contact-form">
-              <div class="field">
-                <label for="name">Name</label>
-                <input id="name" type="text" placeholder="Your name" />
-              </div>
-
-              <div class="field">
-                <label for="email">Email</label>
-                <input id="email" type="email" placeholder="you@example.com" />
-              </div>
-
-              <div class="field">
-                <label for="message">Message</label>
-                <textarea id="message" rows="4" placeholder="Tell me what you’re building..."></textarea>
-              </div>
-
-              <button type="button" class="btn-primary" style="width:max-content;">
-                <span>Send (placeholder)</span>
-                <i class="fas fa-paper-plane"></i>
-              </button>
-            </form>
-          </div>
-        </div>
-      </div>
-    </section>
-  </main>
-
-  <!-- ========== FOOTER ========== -->
-  <footer>
-    <div><strong>UnseenAcoustics</strong></div>
-    <div style="margin-top:4px;">
-      © <span id="year"></span> UnseenAcoustics. All rights reserved.
-    </div>
-  </footer>
-
-  <!-- ========== SCRIPTS ========== -->
-  <script>
-    // Dynamic year
-    document.getElementById("year").textContent = new Date().getFullYear();
-
-    // Theme toggle
-    const body = document.body;
-    const toggle = document.getElementById("themeToggle");
-    const stored = localStorage.getItem("ua-theme");
-
-    if (stored === "light" || stored === "dark") {
-      body.setAttribute("data-theme", stored);
-    }
-
-    function updateToggle() {
-      const current = body.getAttribute("data-theme") || "dark";
-      const icon = toggle.querySelector("i");
-      const label = toggle.querySelector("span");
-
-      if (current === "dark") {
-        icon.className = "fas fa-moon";
-        label.textContent = "Dark";
-      } else {
-        icon.className = "fas fa-sun";
-        label.textContent = "Light";
-      }
-    }
-
-    updateToggle();
-
-    toggle.addEventListener("click", () => {
-      const current =
-        body.getAttribute("data-theme") === "dark" ? "light" : "dark";
-      body.setAttribute("data-theme", current);
-      localStorage.setItem("ua-theme", current);
-      updateToggle();
-    });
-  </script>
+      </aside>
+    </main>
+  </div>
 </body>
 </html>
