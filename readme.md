@@ -72,17 +72,34 @@ programming-languages = [
 ## 🌐 Find Me Online
 
 <p align="center">
-  <a href="mailto:unseenacoustics.lol@proton.me">
-    <img src="https://cdn.simpleicons.org/protonmail/8B89CC" height="40" />
+  <a href="mailto:unseenacoustics.lol@proton.me" style="text-decoration:none;">
+    <img 
+      src="https://cdn.simpleicons.org/protonmail/8B89CC"
+      height="40"
+      style="display:block;"
+      alt="Proton Mail"
+    />
   </a>
   &nbsp;&nbsp;
-  <a href="https://unseen.is-a.dev">
-    <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" />
+  <a href="https://unseen.is-a.dev" style="text-decoration:none;">
+    <img 
+      src="https://cdn.simpleicons.org/cloudflare/F38020"
+      height="40"
+      style="display:block;"
+      alt="Website"
+    />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/UnseenAcoustics">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" height="40" />
+  <a href="https://github.com/UnseenAcoustics" style="text-decoration:none;">
+    <img 
+      src="https://cdn.simpleicons.org/github/FFFFFF"
+      height="40"
+      style="display:block;"
+      alt="GitHub"
+    />
   </a>
 </p>
+
+<p align="center">⭐ From <a href="https://github.com/UnseenAcoustics">UnseenAcoustics</a></p>
 
 <p align="center"> ⭐️ From <a href="https://github.com/UnseenAcoustics">UnseenAcoustics</a> </p>
